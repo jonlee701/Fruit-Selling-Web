@@ -1,0 +1,30 @@
+body,div,ul,ol,li,dl,dt,dd,h1,h2,h3,h4,h5,h6,form,input,textarea,p{
+				margin:0px;
+				padding:0px;
+				         /*ȥ����Щ��ǩ����߿��ڱ߿�����ͳһ�����С*/
+				}
+
+ul{
+	
+	list-style:none;
+}
+
+img,a img{
+	
+			border:none;   /*��ĳЩ�汾��IE��������ܻ���ʾͼƬ�߿�ȥ��ͼƬ�����������ӵ�ͼƬ�ı߿�*/
+}
+
+a{
+	
+	text-decoration:none;  /*ȥ�������������ֵ��»���*/
+}
+
+a:hover{
+	
+			text-decoration:underline;  /*���������ڳ���������ʱ���»���*/
+}
+
+body{
+	
+	background:#C6C0C7;
+}
